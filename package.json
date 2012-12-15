@@ -1,0 +1,21 @@
+{
+  "name": "natwest",
+  "version": "0.1.0",
+  "author": "Steve Lacey <steve@stevelacey.net>",
+  "description": "NatWest Online Banking CLI.",
+  "repository": {
+    "type": "git",
+    "url": "https://stevelacey@github.com/stevelacey/natwest.js.git"
+  },
+  "keywords": [
+    "natwest",
+    "nwolb",
+    "rbs"
+  ],
+  "dependencies" : {
+    "moment": "*",
+    "jquery": "*",
+    "request": "*"
+  },
+  "license": "MIT"
+}
